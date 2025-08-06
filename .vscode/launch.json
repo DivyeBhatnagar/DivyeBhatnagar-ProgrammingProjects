@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "welcome",
+      "request": "launch",
+      "mainClass": "welcome",
+      "projectName": "Oops_2e5096f0"
+    },
+    {
+      "type": "java",
+      "name": "calculator",
+      "request": "launch",
+      "mainClass": "calculator",
+      "projectName": "Oops_2e5096f0"
+    },
+    {
+      "type": "java",
       "name": "main",
       "request": "launch",
       "mainClass": "Java.main",

@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "pattern",
+      "request": "launch",
+      "mainClass": "pattern",
+      "projectName": "Oops_2e5096f0"
+    },
+    {
+      "type": "java",
       "name": "welcome",
       "request": "launch",
       "mainClass": "welcome",

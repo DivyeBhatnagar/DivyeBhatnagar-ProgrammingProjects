@@ -11,7 +11,7 @@ public class calculator {
         char op = sc.next().charAt(0);
 
         System.out.print("Enter second number: ");
-        int b = sc.nextInt();
+        int b = sc.nextInt();1
 
         switch (op) {
             case '+':

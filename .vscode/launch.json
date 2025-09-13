@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "lenght",
+      "request": "launch",
+      "mainClass": "lenght",
+      "projectName": "Oops_2e5096f0"
+    },
+    {
+      "type": "java",
       "name": "addition",
       "request": "launch",
       "mainClass": "addition",

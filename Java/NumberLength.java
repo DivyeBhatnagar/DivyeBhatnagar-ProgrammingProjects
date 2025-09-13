@@ -7,13 +7,13 @@ public class NumberLength {
         System.out.print("Enter a number: ");
         int num = sc.nextInt();
         
-        int length = 0;
-        int temp = num;
+        int length = String.valueOf(Math.abs(num)).length();
         
-        if (temp == 0) {
-            length = 1;
-        } else {
-            if (temp < 0) {
+        System.out.println("Length of " + num + " is: " + length);
+        
+        sc.close();
+    }
+}           if (temp < 0) {
                 temp = -temp;
             }
             

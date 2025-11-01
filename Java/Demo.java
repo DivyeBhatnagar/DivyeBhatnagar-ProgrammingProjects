@@ -1,8 +1,8 @@
 class Thsdemo {
     int a, b;
-    public void get(int x, int y) {
-        a = x;
-        b = y;
+    public void get(int a, int b) {
+        this.a = a;
+        this.b = b;
     }
     public void put() {
         System.out.println("a = " + a);

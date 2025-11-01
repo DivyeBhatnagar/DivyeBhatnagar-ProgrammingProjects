@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Geek",
+      "request": "launch",
+      "mainClass": "Geek",
+      "projectName": "Oops_d0612023"
+    },
+    {
+      "type": "java",
+      "name": "Geeks",
+      "request": "launch",
+      "mainClass": "Geeks",
+      "projectName": "Oops_d0612023"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Oops_d0612023"
+    },
+    {
+      "type": "java",
       "name": "lenght",
       "request": "launch",
       "mainClass": "lenght",
